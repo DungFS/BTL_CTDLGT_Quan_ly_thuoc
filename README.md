@@ -1,4 +1,9 @@
-# BTL_CTDLGT_Quan_ly_thuoc
-# BTL KTPMUD HUST ET3260
-# GVHD: Nguyen Kim Thoa
-# Sinh vien thuc hien: Nguyen Viet Dung
+# 💊 BTL - Quản lý thuốc
+
+**Môn học:** Kỹ thuật phần mềm ứng dụng (ET3260 - HUST)  
+**Giảng viên hướng dẫn:** Nguyễn Kim Thoa  
+**Sinh viên thực hiện:** Nguyễn Việt Dũng  
+
+---
+📁 **Tên dự án:** BTL_CTDLGT_Quan_ly_thuoc
+
